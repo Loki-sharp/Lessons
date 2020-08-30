@@ -22,7 +22,6 @@ namespace Lesson3
             Console.WriteLine("Длина гипотенузы согласно теореме Пифагора равна " + g);
             Console.WriteLine("Длина гипотенузы согласно теореме косинусов равна " + gCos);
             Console.ReadKey();
-
         }
     }
 }
